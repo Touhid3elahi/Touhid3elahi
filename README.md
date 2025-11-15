@@ -51,9 +51,8 @@ Git, GitHub, Bitbucket, Jenkins, VS Code, Figma, Netlify
 
 ## 📫 Get in Touch
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 📨 Email: mo.touhid@example.com
-- 🌐 Portfolio: [https://your-portfolio.com](https://your-portfolio.com) *(replace if available)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/touhidelahijapan/)
+- 📨 Email:touhid3elahi@gmail.com
 
 ---
 
