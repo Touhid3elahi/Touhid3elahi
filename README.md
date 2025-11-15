@@ -43,8 +43,8 @@ Git, GitHub, Bitbucket, Jenkins, VS Code, Figma, Netlify
 
 ## 🌏 Languages & Certifications
 
-- 🇯🇵 Japanese: JLPT N3 (2023)
-- 🇬🇧 English: TOEIC 730 (2022)
+- 🇯🇵 Japanese: JLPT N2 (2023)
+- 🇬🇧 English: TOEIC 830 (2022)
 - 🇧🇩 Bengali: Native
 
 ---
